@@ -1,0 +1,32 @@
+{
+  "name": "DGW Visitenkarte",
+  "short_name": "DGW Karte",
+  "description": "Digitale Visitenkarte der Deutsche Generation Wohnen S.A. mit vCard-QR-Code",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05153C",
+  "theme_color": "#05153C",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
